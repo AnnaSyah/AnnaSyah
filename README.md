@@ -7,7 +7,7 @@ Researcher
 I am a Lecturer and Researcher in the Department of Informatics Engineering. My research focuses on Information Technology, Pervasive Computing, and Big Data Analytics.  
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Portfolio](http://itp.ac.id/dosen/profil-dosen/anna-syahrani)
+* 🖥️  See my portfolio at [this site](http://itp.ac.id/dosen/profil-dosen/anna-syahrani)
 * ✉️  You can contact me at [annasyahrani@itp.ac.id](mailto:annasyahrani@itp.ac.id)
 * 🚀  I'm currently working on [Institut Teknologi Padang](http://itp.ac.id)
 * 🧠  I'm learning Data Science
