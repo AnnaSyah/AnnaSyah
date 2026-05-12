@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Researcher 
 ----------  
 
-I am a Lecturer and Researcher in the Department of Informatics Engineering. My research focuses on Information Technology, Pervasive Computing, and Big Data Analytics.  
+I am a Lecturer and Researcher in the Department of Informatics Engineering. My research focuses on Information Technology, Context-aware Computing, and Big Data Analytics.  
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [this site](http://itp.ac.id/dosen/profil-dosen/anna-syahrani)
