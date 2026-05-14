@@ -66,18 +66,6 @@ Building intelligent systems using contextual data, machine learning, and urban 
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnnaSyah&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnnaSyah&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -108,6 +96,18 @@ Building intelligent systems using contextual data, machine learning, and urban 
 - Build smart city analytics platforms
 - Share reproducible machine learning research
 - Collaborate internationally in AI & Context-Aware Systems
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnnaSyah&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnnaSyah&theme=tokyonight" />
+</p>
 
 ---
 
