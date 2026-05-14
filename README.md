@@ -13,9 +13,8 @@ Building intelligent systems using contextual data, machine learning, and urban 
 - 🔬 Research focus:
   - Context-Aware Computing
   - Smart City Analytics
-  - Big Data Engineering
+  - Big Data Analytics
   - Machine Learning
-  - Educational Data Mining
 - 🤝 Open for:
   - research collaboration
   - joint publications
@@ -84,9 +83,9 @@ Building intelligent systems using contextual data, machine learning, and urban 
 
 ## 📖 Academic Profiles
 
-- Google Scholar: https://scholar.google.com/
-- ORCID: https://orcid.org/
-- Scopus Author ID: https://www.scopus.com/
+- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=apBZBBYAAAAJ&hl=id)
+- ORCID: [https://orcid.org/](https://orcid.org/0000-0001-5146-1868)
+- Scopus Author ID: [1006068501](https://www.scopus.com/authid/detail.uri?authorId=56596639800)
 
 ---
 
