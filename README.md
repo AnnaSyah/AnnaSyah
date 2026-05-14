@@ -69,11 +69,11 @@ Building intelligent systems using contextual data, machine learning, and urban 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaSyah&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnnaSyah&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=AnnaSyah&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AnnaSyah&theme=tokyonight" />
 </p>
 
 ---
