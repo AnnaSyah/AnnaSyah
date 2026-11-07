@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anna Syahrani
 
-### Lecturer | Researcher | Context-Aware Computing & Big Data Analytics
+### Lecturer | Researcher | Context-Aware Computing & ICT for Society
 
 Building intelligent systems using contextual data, machine learning, and urban analytics for smart environments and public services.
 
@@ -12,9 +12,7 @@ Building intelligent systems using contextual data, machine learning, and urban 
 - 🎓 Lecturer and Researcher in Informatics Engineering
 - 🔬 Research focus:
   - Context-Aware Computing
-  - Smart City Analytics
-  - Big Data Analytics
-  - Machine Learning
+  - ICT for Society
 - 🤝 Open for:
   - research collaboration
   - joint publications
